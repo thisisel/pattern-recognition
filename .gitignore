@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+pattern/MiniProj1_Biomedical/TA_instructions.pdf
+pattern/MiniProj1_Biomedical/tempCodeRunnerFile.py
+pattern/pattern.code-workspace

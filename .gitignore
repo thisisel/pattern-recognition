@@ -6,6 +6,7 @@ dist/
 wheels/
 *.egg-info
 
+.vscode
 # Virtual environments
 .venv
 pattern/MiniProj1_Biomedical/TA_instructions.pdf

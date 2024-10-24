@@ -175,6 +175,6 @@ cython_debug/
 #.idea/
 
 
-mini_proj1/TA_instructions.pdf
-mini_proj1/tempCodeRunnerFile.py
+./mini_proj1/TA_instructions.pdf
+./mini_proj1/tempCodeRunnerFile.py
 pattern.code-workspace

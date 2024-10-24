@@ -9,9 +9,9 @@ wheels/
 .vscode
 # Virtual environments
 .venv
-pattern/MiniProj1_Biomedical/TA_instructions.pdf
-pattern/MiniProj1_Biomedical/tempCodeRunnerFile.py
-pattern/pattern.code-workspace
+mini_proj1/TA_instructions.pdf
+mini_proj1/tempCodeRunnerFile.py
+pattern.code-workspace
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
